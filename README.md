@@ -5,6 +5,7 @@ Word Process application currently contain one core functionality. Application t
 
 Application is built with Java version 17.
 
+<br><br>
 
 **Assumptions**
 
@@ -14,8 +15,10 @@ Application is built with Java version 17.
 
 - If more than one file has to be provided in Command line, then they can be provided as single string seperated by comma. *Eg: C:\Users\prvn\MultitoneAssessment\src\resources\Input1.txt,C:\Users\prvn\MultitoneAssessment\src\resources\Input2.txt*
 
+<br><br>
 
-**Execution steps**
+**Execution steps** <br>
+
 Below are the list of steps for executing from command line:
 
 1. Ensure Java and Maven are installed in the machine and JAVA_HOME is configured in environment variables.
