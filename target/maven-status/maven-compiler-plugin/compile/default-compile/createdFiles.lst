@@ -1,0 +1,5 @@
+com\multitone\main\WordProcessorApp.class
+com\multitone\util\WordProcessorUtil.class
+com\multitone\service\WordProcessor.class
+com\multitone\util\WordProcessorUtil$1.class
+com\multitone\exception\WordProcessorException.class
